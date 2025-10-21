@@ -40,7 +40,7 @@ You need to modify ```datasets/dataset.py``` slightly for your environment, and 
 </p>
 
 <p align="center">
-  <img width="800" src="SCIE.png">
+  <img width="800" src="SICE.png">
 </p>
 
 <p align="center">
