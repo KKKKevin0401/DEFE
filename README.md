@@ -4,7 +4,7 @@
 >
 
 <p align="center">
-  <img width="800" src="figs/pipeline.jpg">
+  <img width="800" src="strcture.png">
 </p>
 
 ---
