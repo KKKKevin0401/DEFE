@@ -30,7 +30,7 @@ You can run the following code for testing：
 Then input the semi restored image into the Residual Refinement Module (RRM). For the RRM, we follow the relevant settings from [https://github.com/savvaki/LPDM].
 ## Training
 
-You need to modify your data from```datasets/dataset.py```, and then train your own model by running the following commad. 
+You need to modify your data according to ```datasets/dataset.py```, and then train your own model by running the following commad. 
 
     python train.py
     
