@@ -8,11 +8,6 @@
 </p>
 
 ---
-<p align="center">
-  <img width="800" src="figs/pipeline.jpg">
-</p>
-
----
 
 ## Installation
 
