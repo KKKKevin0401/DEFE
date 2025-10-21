@@ -27,6 +27,7 @@ You can run the following code for testing：
 
     python evaluate.py
 
+然后将生成的图片放在Residual Refinement Module(RRM)：LPDM,For the RRM, we follow the relevant settings from [https://github.com/savvaki/LPDM].
 ## Training
 
 You need to modify ```datasets/dataset.py``` slightly for your environment, and then train your own model by running the following commad. 
