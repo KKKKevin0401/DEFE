@@ -36,7 +36,7 @@ class DEFE(nn.Module):
         # self.dw_conv5 = create_dwconv()
 
         def create_kan_layer(grid_size, grid_range,scale_spline):
-            return KAN_Convolutional_Layer(
+            return Convolutional_Layer(
                 n_convs=1,
                 kernel_size=(3, 3),
                 stride=(1, 1),
