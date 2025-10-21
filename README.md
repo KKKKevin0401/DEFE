@@ -8,3 +8,33 @@
 </p>
 
 ---
+<p align="center">
+  <img width="800" src="figs/pipeline.jpg">
+</p>
+
+---
+
+## Installation
+
+     python=3.9
+     pytorch=1.13.1
+     torchvision==0.14.1
+     scipy==1.10.1 
+     opencv-python=4.6.0.66
+
+## Pretrained models
+
+We provide the Google Drive links for the following pre-trained weights.
+
+## Testing
+
+You can run the following code for testing：
+
+    python evaluate.py
+
+## Training
+
+You need to modify ```datasets/dataset.py``` slightly for your environment, and then train your own model by running the following commad. 
+
+    python train.py
+
