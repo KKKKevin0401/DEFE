@@ -32,4 +32,18 @@ You can run the following code for testing：
 You need to modify ```datasets/dataset.py``` slightly for your environment, and then train your own model by running the following commad. 
 
     python train.py
+    
+## Results
+
+<p align="center">
+  <img width="800" src="LOL.png">
+</p>
+
+<p align="center">
+  <img width="800" src="SCIE.png">
+</p>
+
+<p align="center">
+  <img width="800" src="unpaired.png">
+</p>
 
